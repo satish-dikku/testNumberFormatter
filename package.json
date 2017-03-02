@@ -1,0 +1,29 @@
+{
+  "name": "testnumbderformatter",
+  "version": "0.0.1",
+  "description": "trial fro node modeule creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satish-dikku/testNumberFormatter.git"
+  },
+  "keywords": [
+    "testformatter"
+  ],
+  "author": "Satish Trial <srivastava1980@gmail.com>",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/satish-dikku/testNumberFormatter/issues"
+  },
+  "homepage": "https://github.com/satish-dikku/testNumberFormatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
