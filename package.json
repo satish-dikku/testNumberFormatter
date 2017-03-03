@@ -1,5 +1,5 @@
 {
-  "name": "testnumbderformatter",
+  "name": "@satishdikku/testnumbderformatter",
   "version": "0.0.1",
   "description": "trial fro node modeule creation",
   "main": "index.js",
@@ -25,5 +25,11 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
   }
 }
